@@ -56,5 +56,4 @@ action = encoder.inverse_transform(prediction)[0]
 print(f"Action: {action}") # Output: ON
 ```
 
-## Contributing
-Feel free to add more training data to `data.csv` to improve the model's robustness across different languages or command variations.
+
